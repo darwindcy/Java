@@ -1,0 +1,12 @@
+You have the following commands available
+
+quit: This Commands will make you quit the game
+look: looks where you are in the dungeon. It will reprint the description of the room that was printed earlier when you first entered the room
+items: Shows the items that you currently hold
+go <desired direction>: moves your character to the desired direction
+   - Your options are: east / west / north / south / northeast / northwest / southeast / southwest
+pickup <item>: pick up an item
+use: use an item; It can only be used when needed
+ it will automatically prompt you to use it
+examine <item>: examine an item
+ Remember you can only examine items that you currently have

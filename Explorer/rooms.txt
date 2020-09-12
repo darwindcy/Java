@@ -1,0 +1,37 @@
+00:Dungeon, Where it all begins:You are stuck in a Dungeon; Its upto you whether you choose to stay there and wait for your end or find a way out of this pitch dark void. Good luck !:Gold Locket:6
+10:Passage Down the start: It looks dark down the road but the passage is still visible even in the dark. Who knows what's waiting ahead.:12,6
+20:Brace yourself, Its a Long Road ahead: Its just beginning and the roads are not helping either. A long passage and very little to think about other than how to get out of this place.:12,6
+30:Darker than the color Black, Pitch dark upfront: The little visibility is now gone and Its pitch dark upfront. The only way to not hit walls is to walk beside it and follow the tunnel.:12,6
+40:The darkness gets thin, A Glimmer of Light: There seems to be some light up ahead in the direction that you were walking; Maybe it is the exit to this dark place?:12,6
+50:Something useful, Information about the Environment: The light seems to be coming from above; From the looks of it, it seems like moonlight. Its dark outside and I think I am under the ground. I still wonder how I got here!:12,6
+60:Going with the wind, Or should we say it Going with the passage: Just a passage along the southern direction.:12,6
+70:First Turn, End of the Way: The passage seems to come to a dead end. Oh wait, there is a path to the right. Seems like another big passage.:12,3
+71:Finally end to this long passage: A turn with a hope that as the road changes so will my fate in this Dungeon; Just a Passage along the right ;P.:9,3
+72:Where the roads split, Diversion:The way parts here, one goes up north whereas the other goes east. There is a cold wind coming from the east.:9,3
+73:Another seemingly long passage, The East Passage: As the cold wind gets stronger, Where is all this coming from? Maybe outside? Is this the way out?:9,3
+74:Something new, Sight of something other than passage and dark or should I say Dark Passage: Looks like a way to something big. Run towards it:9,3
+75:Big Compartment, Big Room inside the Dungeon: This looks like a big hall. There are imprints of a lot of accessories here. Maybe there is an item here. Gold locket:Gold Locket:9,3
+76:Road Closed, Take a diversion: There is no way further here. Look's like I will have to find another way. I think there was a way going up north earlier. :9
+62:Winter is Coming, or should I say, I am going towards the cold direction-The North Passage: Let me try my luck choosing this way now; I hope it leads to somewhere good.:9,12,3
+52:Turns after turns-Two more diversion:There are two ways one to the east and the other to the west.:9,3,6
+51:Just another turn- The Left diversion: Left it is then. Oh wait, I think I am going up again the way I came earlier just from a different passage. The rooms are getting kind of humid now; I can also hear some water sounds:12,3
+41:The essence of Life- Water Sighted: Beyond you is water flowing through the rocks. Maybe its from the rain and there is a way from which the water entered. This might be a way out.:12,6
+31:Wet Rocks, Slipperly slope: The water is flowing at a much faster rate. There must be something causing this much water.:12,6
+21:a Sight to see, waterfall: Its a small waterfall. It looks like water from here was flowing to another part in the dungeon. I can't see where it is going though; Its through the rocks. I have to climb up and it looks impossible to climb up this waterfall. Looks like I'll have to find another way.:6
+53:Room with the Torches: There are torches on the sides of this room here, I wonder what this could be. Someone has definitely been through here before. Maybe there is an important room up ahead. There might be someone else in here. There is a Steel Sword hanging on side of a torch. It might be worth something when I get out:Steel Sword:9,3
+54:Another Room ? Big Hall: Its a Big hall with 4 different exits. Since I entered from one, There are still left. There are some valuable accessories here:Gold Locket:9,10,2,3
+55:A direction ofo hope-East from the Big Hall: The Big Hall is behind, and its darker up front. A lot of doubt on this being the correct way out.:9,3
+56:Hope turned to dust-Dead end again: Well, This was expected. No route ahead from here. At least I know there are two more ways I can go to from the Big Hall. Oh wait look what is here Gold coins:Gold Coins:9
+45:An effort towards freedom-NorthEast from the Big Hall: The Big hall is behind, and this way also goes away from the waterfall that I saw earlier.:2,7
+36:Lost in the Dungeon-Dead end of Despair: Another dead end. It doesn't look like the dungeon is going to let me out. Oh wait there are more ways from the Big Hall. There is something else here, A key, pick it up it might be useful later:Key:7
+43:With an attempt to beat Dungeon-NorthWest from the Big Hall: The wall on the left is where there was a division earlier. This whole place is like a maze. I would even call it a maze game made to make me work myself out.:10,5
+32:Another direction change ? End of the Northwest road: The direction of the way changes from Northwest to North and I wouldn't be surprised if the way turned more.:12,5
+22:Its getting dizzy-Direction change again: Its east this time, That was a short walk up north.I hope its not a circle and I don't land in the same place. The walls are a little wet. The waterfall I saw earlier might have its water falling on the other side. So, East is where I must head towards.:3,6
+23:Thank god its not a circle maze. False hope of freedom ignites: If I follow this left wall, maybe I can find a way to the end of the waterfall and it might be the way out.:9,3
+24:Another glimmer of change-Diversion of Hope: A path to east and one to North. Should I choose the one that will definitely take me to the waterfall again or Should I continue heading east.:9,12,3
+14:Sound of Water, Encouraged by the ripples: I can hear water from here. Run towards freedom.:12,6
+04:Other end of the waterfall: The earth parts in west corner of the passage and the partition is huge. So this is where all the water comes to from the other side; I might be inside a mountain because the water needs to go down eventually.:6
+25:East is the way of freedom: It has been long since I started walking, It might be morning already outside and I am getting hungry. The path goes deeper East and no end in sight.:Silver Coins:3,9
+26:Tired of the Dungeon- Thoughts of quitting: The path doesn't want to end and I am tired. I am very hungry and I don't how I am going to get out of here. Should I accept my fate? I'll keep walking for a few minutes:3,9
+27:End of Hope ? Or End of Journey?: A dead end is visible from far away. There must be a turning there or else there is no way outside from here. Oh wait, Its visible to left means there is light coming from the right.:9,6
+37:Door of freedom- Dungeon is almost over: A huge door with a big hole to look outside through. Its like a prisoner's door. You can see your way outside from this. But this door is locked and it needs a key to be opened.Press anything to know what to do now:12

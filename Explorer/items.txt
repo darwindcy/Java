@@ -1,0 +1,8 @@
+Hammer: Just a regular hammer
+Key: Looks like a regular key. Might open some door.
+Steel Sword: Seems like someone lost their sword while exploring this dungeon
+Gold Coins: OOOO, Gold Coins; Very valuable asset, but only if you get out.
+Silver Coins: Not as much worthy as gold but it is Silver.
+Rope: A normal Rope. Its a strong one.It might be useful.
+Golden Dagger: A small, shiny weapon.
+Gold Locket: An expensive looking gold locket that fells heavy on the neck
